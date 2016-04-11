@@ -1,0 +1,17 @@
+@import 'main.css';
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,400);
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
+
+html {
+  background: #222 url(../img/abstract-bg.svg) bottom right no-repeat;
+  height: 100%;
+  background-position: fixed;
+  overflow-y: scroll;
+}
+
+body {
+  background: none;
+  line-height: 1.5;
+  color: #f5f5f5;
+  font-family: 'Source Sans Pro', sans-serif;
+}
